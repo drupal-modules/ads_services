@@ -1,4 +1,4 @@
-ads_services
-============
+ads_animals
+===========
 
-Provides common Services features for ADS Drupal distribution.
+Provides common Animal features for ADS Drupal distribution.
