@@ -1,7 +1,7 @@
-ads_animals
+Ads Services
 ===========
 
-Provides common Animal features for ADS Drupal distribution.
+Provides common Ads Services features for ADS Drupal distribution.
 
 Build status
 ------------
