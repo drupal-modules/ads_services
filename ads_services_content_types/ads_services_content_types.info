@@ -1,10 +1,10 @@
-name = Content Types for Ads Services
-description = Provides Content Types for Ads distribution
+name = Content Types for ADS Services
+description = Provides Content Types for ADS distribution
 core = 7.x
 package = ADS Services
 php = 5.2.4
 version = 7.x-1.0-alpha1
-project = ads_services_content_types
+project = ads_services
 dependencies[] = features
 features[ctools][] = strongarm:strongarm:1
 features[features_api][] = api:1
